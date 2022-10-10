@@ -6,7 +6,7 @@ github:
 https://github.com/gecgelcem/BlockChain/tree/main/GuntToken
 
 Dapp url:
-https://grand-truffle-e771db.netlify.app/
+https://gunt-token-faucet.netlify.app
 
 Gunt Token addr:
 0xB54295438F442AfD670A76e65D0EA21566a19c49
