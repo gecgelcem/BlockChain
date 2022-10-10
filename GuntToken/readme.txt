@@ -1,0 +1,5 @@
+Aunt Token deployed addr:
+0xB54295438F442AfD670A76e65D0EA21566a19c49
+
+Faucet contract deployed. 
+0xa5c793af330659c3c6dD45618Be0eaa93F7632f0
